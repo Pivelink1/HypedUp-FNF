@@ -18,4 +18,5 @@ _____________________________________
 ## None for now
 
 # Attention
-$\color[rgb]{1,0,0}You are allowed to compile the source code if you want but do not state it's a leaked build. We are giving you access to look at our work, you didn't get it from an unknown source.$
+$\color[rgb]{1,0,0}You \space are \space allowed \space to \space compile \space the \space source \space code \space if \space you \space want \space but \space do \space not \space state \space it's \space a \space leaked \space build.$
+$\color[rgb]{1,0,0}We \space are \space giving \space you \space access \space to \space look \space at \space our \space work, \space you \space didn't \space get \space it \space from \space an \space unknown \space source.$
